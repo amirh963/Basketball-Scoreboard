@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.7em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgb(28, 40, 39);
+    margin: 10px auto 5px;
+    padding: 10px 10px 50px;
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid rgb(126, 85, 2);
+    border-radius: 25px;
+}
+
+button {
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding: 8px;
+    margin: 15px 5px 10px;
+    cursor: pointer;
+}
+.score {
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+}
+.btn-one {
+    background-color: rgb(5, 248, 131);
+}
+.btn-two {
+    background-color: rgb(5, 208, 131);
+}
+.btn-three {
+    background-color: rgb(5, 178, 131);
+}
+
+.team {
+    background-color: rgb(63, 76, 74);
+    padding: 10px 25px 5px;
+    margin: 10px 5px 10px;
+    border-radius: 15px;
+}
+
+#reset-btn {
+    background-color: rgb(28, 40, 39);
+    color: rgb(5, 248, 131);
+    display: flex;
+    justify-content: center;
+    margin: 100px 5px;
+    border: solid white;
+    border-radius: 10px;
+}
+
+h2 {
+    color: rgb(5, 248, 131);
+}
