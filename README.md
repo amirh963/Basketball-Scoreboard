@@ -15,7 +15,7 @@ A simple web-based scoreboard for basketball games, built with HTML, CSS, and Ja
 - CSS3
 - JavaScript (vanilla)
 
-## 📦 How to Use
+## How to Use
 
 1. Clone the repo:
    ```bash
