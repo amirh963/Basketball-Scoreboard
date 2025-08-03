@@ -20,4 +20,4 @@ A simple web-based scoreboard for basketball games, built with HTML, CSS, and Ja
 1. Clone the repo:
    ```bash
    git clone https://github.com/amirh963/Basketball-Scoreboard/tree/main
-![Screenshot](screenshot.jpg)
+![Screenshot](Screenshot.jpg)
